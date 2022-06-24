@@ -7,3 +7,4 @@ Main Language
 
 
 :diamond_shape_with_a_dot_inside: Python
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=punyathorn)](https://github.com/anuraghazra/github-readme-stats)
