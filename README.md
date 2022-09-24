@@ -10,4 +10,4 @@ Main Language
 
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=punyathorn)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=punyathorn)](https://github.com/anuraghazra/github-readme-stats)
