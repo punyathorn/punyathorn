@@ -7,6 +7,11 @@ Main Languages and Tools
 
 
 :diamond_shape_with_a_dot_inside: Python
+:diamond_shape_with_a_dot_inside: Arduino
+:diamond_shape_with_a_dot_inside: Raspberry Pi
+:diamond_shape_with_a_dot_inside: Raspberry Pi Pico
+:diamond_shape_with_a_dot_inside: ESP 32
+:diamond_shape_with_a_dot_inside: VS Code
 
 
 
