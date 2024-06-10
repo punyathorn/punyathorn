@@ -19,6 +19,7 @@
 :diamond_shape_with_a_dot_inside: Dart
 
 ## 3D Printing
+:diamond_shape_with_a_dot_inside: Bambulab P1S + AMS
 :diamond_shape_with_a_dot_inside: Ender 3 V2 w/ Sprite Extruder
 :diamond_shape_with_a_dot_inside: Cura
 :diamond_shape_with_a_dot_inside: Klipper w/ mainsail
