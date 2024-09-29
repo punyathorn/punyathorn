@@ -25,8 +25,5 @@
 :diamond_shape_with_a_dot_inside: Klipper w/ mainsail
 :diamond_shape_with_a_dot_inside: Raspberry Pi
 
-## My Website
-[Punyathorn's Website](https://punyathorn.pythonanywhere.com/)
-
 ## Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=punyathorn)](https://github.com/anuraghazra/github-readme-stats)
